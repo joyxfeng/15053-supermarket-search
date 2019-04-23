@@ -1,0 +1,102 @@
+Item ,Price,Position in Aisle,X Position,Y Position
+Start Node,0,0,0,0
+Coffee Beans,6.99,0.1,0,15
+K-Cups,10.99,0.3,0,35
+Tetley Tea,3.19,0.45,0,50
+Capt. Crunch,3.99,0.6,0,65
+Breakfast Biscuits,3.29,0.7,0,75
+Chewy Bars,3.69,0.85,0,90
+Granola,5.49,0.95,0,100
+Hershey's,2.69,0.8,10,85
+Olive Oil,6.99,0.7,10,75
+Flour,4.99,0.6,10,65
+Syrup,2.49,0.5,10,55
+Rice Krispies Treats,4.99,0.3,10,35
+Brownie Mix,2.29,0.2,10,25
+Jell-O Pudding,1.69,0.1,10,15
+Seasoning,3.99,0.05,10,10
+Soup,1.99,0.2,20,25
+Mac & Cheese,2.69,0.4,20,45
+Salsa,2.00,0.55,20,60
+Hormel Chili,2.49,0.65,20,70
+Ketchup,3.49,0.7,20,75
+Pickles,2.99,0.75,20,80
+Italian Dressing,3.99,0.8,20,85
+Ranch Dressing,3.49,0.85,20,90
+Soy Sauce,2.49,0.9,30,95
+Penne,3.49,0.85,30,90
+CapriSun,2.49,0.8,30,85
+Tortillas,1.99,0.4,30,45
+Mayonnaise,2.99,0.3,30,35
+BBQ Sauce,1.99,0.25,30,30
+Tobasco,3.99,0.2,30,25
+Tomato Sauce,2.99,0.1,30,15
+Ibuprofen,5.49,0.15,40,20
+Diapers,25.99,0.3,40,35
+Baby Food,0.88,0.35,40,40
+Revlon Colorsilk,2.99,0.4,40,45
+Advil,6.29,0.5,40,55
+Febreeze,4.99,0.6,40,65
+Tootpaste,3.99,0.9,40,95
+Tampons,5.29,0.8,40,85
+Shampoo,8.99,0.95,40,100
+Toilet Paper,7.99,1,50,105
+Paper Towels,9.99,0.8,50,85
+Flushable Wipes,6.49,0.7,50,75
+Napkins,3.29,0.6,50,65
+Solo Cups,5.69,0.4,50,45
+Ziploc Containers,3.49,0.2,50,25
+Trash Bags,8.99,0.1,50,15
+Dish Soap,2.99,0.1,60,15
+Detergent,12.99,0.15,60,20
+Clorox Wipes,4.99,0.25,60,30
+Broom,13.99,0.3,60,35
+Batteries,3.99,0.4,60,45
+Swiffer Refills,7.99,0.5,60,55
+Dog Treats,3.99,0.6,60,65
+Air Freshner,6.99,0.7,60,75
+Oreos,3.99,0.8,70,85
+Popcorn,3.49,0.5,70,55
+Peanut Butter Bites,3.49,0.45,70,50
+Keebler Chips Deluxe,2.49,0.4,70,45
+Gatorade (12),6.99,0.3,70,35
+Redbull (4),7.99,0.25,70,30
+Ritz,3.99,0.1,70,15
+Coca Cola (12),5.99,0.1,80,15
+LaCroix (12),5.49,0.2,80,25
+Pepsi (12),5.99,0.15,80,20
+Bai Core Water,1.69,0.25,80,30
+V8 Juice,3.99,0.3,80,35
+Seltzer (6),3.99,0.8,80,85
+Glaceau SmartWater,6.99,0.9,80,95
+Bottled Water (24),4.99,0.95,80,100
+Milk Gallon,3.79,0.1,90,15
+Butter Sticks,2.99,0.4,90,45
+Cookie Dough,3.99,0.45,90,50
+Chobani (4),4.49,0.6,90,65
+Dannon Yogurt,2.99,0.65,90,70
+String Cheese,3.99,0.8,90,85
+Eggs (12),3.99,0.9,90,95
+Waffles,3.79,0.8,100,85
+Taquitos,6.99,0.4,100,45
+Breyer's Ice Cream,4.99,0.3,100,35
+Dole Frozen Fruit,3.49,0.4,100,45
+Lasagna,9.99,0.5,100,55
+Bagel Bites,2.79,0.6,100,65
+"Pizza (12"")",8.99,0.9,100,95
+Peanut Butter,3.49,0.05,5,110
+Bread,0.99,0.1,10,110
+Bagels,2.99,0.15,15,110
+Cheese,2.99,0.25,25,110
+Salami,5.99,0.3,30,110
+Chicken Breast,6.98,0.35,35,110
+Steak,7.13,0.4,40,110
+Bacon,7.99,0.45,45,110
+Hummus,3.99,0.5,50,110
+Ham,3.99,0.55,55,110
+Salmon,5.99,0.6,60,110
+Salad Greens,3.49,0.75,75,110
+Apples (per lb),1.99,0.8,80,110
+Avacado (each),1.49,0.85,85,110
+Tomatoes (per lb),2.99,0.9,90,110
+Roses (12),12.99,1,100,110
