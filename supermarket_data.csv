@@ -17,7 +17,7 @@ Jell-O Pudding,1.69,0.1,10,15
 Seasoning,3.99,0.05,10,10
 Soup,1.99,0.2,20,25
 Mac & Cheese,2.69,0.4,20,45
-Salsa,2.00,0.55,20,60
+Salsa,2,0.55,20,60
 Hormel Chili,2.49,0.65,20,70
 Ketchup,3.49,0.7,20,75
 Pickles,2.99,0.75,20,80
@@ -100,3 +100,4 @@ Apples (per lb),1.99,0.8,80,110
 Avacado (each),1.49,0.85,85,110
 Tomatoes (per lb),2.99,0.9,90,110
 Roses (12),12.99,1,100,110
+End Node,0,0,0,0
