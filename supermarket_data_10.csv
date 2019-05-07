@@ -1,0 +1,13 @@
+Item ,Price,Position in Aisle,X Position,Y Position
+Start Node,0,0,0,0
+Coffee Beans,6.99,0.1,0,15
+K-Cups,10.99,0.3,0,35
+Tetley Tea,3.19,0.45,0,50
+Capt. Crunch,3.99,0.6,0,65
+Breakfast Biscuits,3.29,0.7,0,75
+Chewy Bars,3.69,0.85,0,90
+Granola,5.49,0.95,0,100
+Hershey's,2.69,0.8,10,85
+Olive Oil,6.99,0.7,10,75
+Flour,4.99,0.6,10,65
+End Node,0,0,0,0
